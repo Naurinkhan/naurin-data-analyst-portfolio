@@ -1,4 +1,4 @@
-# 📊 Data Analyst Portfolio – Naureen Khan
+# 📊 Data Analyst Portfolio – Naurin Khan
 
 Welcome to my Data Analyst portfolio.  
 This repository showcases **real-world data analytics and predictive modeling projects**
