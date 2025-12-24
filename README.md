@@ -1,37 +1,75 @@
-# Exploratory Data Analysis – Global Superstore
+# 📊 Data Analyst Portfolio – Naureen Khan
 
-## 📌 Project Overview
-This project focuses on exploratory data analysis (EDA) of the Global Superstore dataset to uncover sales trends, profit patterns, and customer behavior across regions and categories.
+Welcome to my Data Analyst portfolio.  
+This repository showcases **real-world data analytics and predictive modeling projects**
+across **Retail, Banking, and Business Intelligence domains**, built using Python, Power BI, and SQL.
 
-## 📊 Dataset
-- Source: Kaggle – Global Superstore
-- Records: Orders across multiple countries
-- Key features:
-  - Order Date
-  - Sales, Profit, Discount, Quantity
-  - Category, Sub-Category, Segment, Region
+Each project follows a structured analytics approach:
+- Business problem understanding
+- Data cleaning & exploratory data analysis (EDA)
+- Insights generation & visualization
+- Predictive modeling (where applicable)
+- Business-focused recommendations
 
-## 🔍 Analysis Performed
-- Data cleaning and preprocessing
-- Univariate and bivariate analysis
-- Sales and profit distribution analysis
-- Category, region, and segment-wise performance
-- Time-series analysis (daily, monthly, yearly trends)
-- Moving averages for trend smoothing
-- Interactive visualizations using Plotly
+---
 
-## 🛠 Tools & Libraries
-- Python
-- Pandas, NumPy
-- Matplotlib, Seaborn
-- Plotly
-- Jupyter Notebook
+## 📁 Projects
 
-## 📈 Key Insights
-- Sales show consistent growth over the years with seasonal spikes.
-- Technology category contributes the highest sales.
-- Higher discounts often negatively impact profit.
-- Clear monthly and yearly sales trends suitable for forecasting.
+### 1️⃣ Exploratory Data Analysis – Global Superstore
+**Domain:** Retail & Sales Analytics  
 
-## 📂 File
-- `EDA_GlobalSuperstore.ipynb` – Complete analysis notebook
+**Key Highlights:**
+- Sales, profit, and customer behavior analysis
+- Regional and category-wise performance insights
+- Data visualization using Python & Power BI
+- Actionable recommendations to improve profitability
+
+**Tools:** Python (Pandas, Matplotlib, Seaborn), Power BI  
+
+📂 Folder: `projects/EDA_GlobalSuperstore`
+
+---
+
+### 2️⃣ Loan Default Prediction – Credit Risk Analytics
+**Domain:** Banking & Financial Services  
+
+**Key Highlights:**
+- Credit risk analysis using customer financial data
+- Exploratory analysis of default drivers (income, credit history, employment)
+- Predictive modeling using Logistic Regression & Random Forest
+- Feature importance analysis for model explainability
+- Power BI dashboard for default risk monitoring
+
+**Tools:** Python (Pandas, Scikit-learn), Power BI  
+
+📂 Folder: `loan-default-prediction`
+
+---
+
+## 🛠️ Tools & Technologies
+- **Programming:** Python (Pandas, NumPy, Scikit-learn)
+- **Data Visualization:** Power BI, Matplotlib, Seaborn
+- **Databases:** SQL
+- **Analytics Skills:**  
+  - Exploratory Data Analysis (EDA)  
+  - Predictive Modeling  
+  - Feature Engineering  
+  - Business Insights & Storytelling  
+
+---
+
+## 🎯 About Me
+I am a **Data Analyst with industry experience** in building analytical solutions that help
+businesses make **data-driven decisions**. My focus areas include:
+- Business Intelligence
+- Banking & Risk Analytics
+- Retail & Customer Analytics
+
+📍 Location: UAE  
+💼 Open to Data Analyst / Business Analyst opportunities
+
+---
+
+## 📬 Contact
+- **LinkedIn:** https://linkedin.com/in/naurinkhan
+- **GitHub:** https://github.com/Naurinkhan
